@@ -1,2 +1,3 @@
 # MSCS532_Assignment1
-Assignment 1 for MSCS-532: Algorithms and Data Structures, Summer 2025
+
+This is a Python implementation of the Insertion Sort algorithm that sorts arrays in **monotonically decreasing order**.
